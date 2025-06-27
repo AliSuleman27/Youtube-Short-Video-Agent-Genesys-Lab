@@ -1,0 +1,35 @@
+{
+  "status": "error",
+  "topic": "iPhone 17",
+  "region": "US",
+  "timeframe": "today 1-m",
+  "analysis_date": "2025-06-25T14:49:07.195537",
+  "errors": [
+    "Interest data failed: The request failed: Google returned a response with code 429",
+    "Related topics failed: list index out of range",
+    "Trending searches failed: The request failed: Google returned a response with code 404"
+  ],
+  "interest_over_time": {},
+  "related_queries": {
+    "top": [],
+    "rising": []
+  },
+  "related_topics": {
+    "top": [],
+    "rising": []
+  },
+  "regional_interest": {
+    "Alabama": 98,
+    "Alaska": 75,
+    "Arizona": 89,
+    "Arkansas": 81,
+    "California": 88,
+    "Colorado": 76,
+    "Connecticut": 70,
+    "Delaware": 68,
+    "District of Columbia": 65,
+    "Florida": 85
+  },
+  "trending_searches": [],
+  "message": "Failed to retrieve basic interest data"
+}
